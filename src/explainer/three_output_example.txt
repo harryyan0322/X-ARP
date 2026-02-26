@@ -1,0 +1,7 @@
+User u5678901234 is classified as a bot mainly because:
+Among the 10 accounts followed, 3 are also classified as bots;
+The model identifies the following node features as most influential:
+Feature 'followers' (importance 0.85), Feature 'tweet_count' (importance -0.42), Feature 'verified' (importance 0.33).
+In the local neighborhood, the following features also contribute significantly to the prediction:
+'friends' (contribution 0.51), 'profile_age' (contribution -0.27).
+Structurally, this node is connected to 10 high-weight neighbors, which is considered an important factor by the model. 
